@@ -1,0 +1,43 @@
+/* @format */
+
+/*
+.box{
+    background-color: cadetblue;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    /* transition-property: height width; */
+    /* transition-property: height; */
+    /* transition-property: width; */
+    /* transition-property: all; */
+    /* transition-duration: 3s; */
+    /* transition-delay: 2s; */
+/*}
+
+/* div.box:hover{
+    height: 250px;
+    width: 250px;
+    background-image: linear-gradient(45deg, rgb(25, 25, 161), green);
+    border-radius: 50%;
+} */
+
+
+
+/* transition-timing-function */
+
+.box1{
+    height: 80px;
+    width: 80px;
+    background-color: brown;
+    transition-property: width;
+    transition-duration: 4s;
+    /* transition-timing-function: ease; */
+    /* transition-timing-function: ease-in; */
+    /* transition-timing-function: ease-out; */
+    /* transition-timing-function: ease-in-out; */
+    transition-timing-function: linear;
+}
+
+.box1:hover{
+    width: 350px;
+}
