@@ -1,0 +1,24 @@
+/* @format */
+
+div{
+    height: 200px;
+    width: 200px;
+    /* float: right; */
+    float: left;
+    font-size: 25px;
+}
+.id1{
+    background-color: darkmagenta;
+}
+
+.id2{
+    background-color: darkslateblue;
+}
+
+.id3{
+    background-color: darkolivegreen;
+    /* float: right; */
+    /* clear: left; */
+    clear: right;
+    float: left;
+}
