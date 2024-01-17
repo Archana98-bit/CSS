@@ -1,0 +1,9 @@
+/* @format */
+
+input:focus{
+    background-color: cornflowerblue;
+}
+
+textarea:focus{
+    background-color: chocolate;
+}

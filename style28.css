@@ -1,0 +1,22 @@
+/* @foramt */
+
+a{
+    display: block;
+    padding: 5px;
+}
+
+a:visited{
+    color: darkorange;
+}
+
+a:link{
+    color: rgb(29, 0, 0);
+}
+
+a:hover{
+    color: darkgreen;
+}
+
+a:active{
+    color: darkred;
+}

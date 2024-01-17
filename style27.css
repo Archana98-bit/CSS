@@ -1,0 +1,15 @@
+/* format */
+
+.box{
+    background-color: darkmagenta;
+    height: 200px;
+    width: 300px;
+    /* overflow: visible; */
+    /* overflow: hidden; */
+    /* overflow: auto; */
+    /* overflow: scroll; */
+    /* overflow-x: auto; */
+    overflow-x: scroll;
+    /* overflow-y: hidden; */
+    overflow-y: scroll;
+}

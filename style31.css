@@ -1,0 +1,12 @@
+/* @format */
+
+.box{
+    height: 250px;
+    width: 250px;
+    background-color: darkslategrey;
+    /* cursor: progress; */
+    /* cursor: pointer; */
+    /* cursor: cell; */
+    /* cursor: move; */
+    cursor: crosshair;
+}
