@@ -1,0 +1,35 @@
+div{
+    height: 100px;
+    width: 200px;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+    /* background-color: cadetblue; */
+    
+    /* background-color: rgb(255, 0, 255); */
+    /* background-color: rgb(255, 255, 255); */
+    /* background-color: rgb(0, 255, 255); */
+    /* background-color: rgb(255, 255, 0); */
+    /* background-color: rgb(255, 0, 0); */
+    /* background-color: rgb(180, 90, 0); */
+    /* background-color: rgb(230, 230, 230); */
+
+
+    /* background-color: rgba(255, 0, 0, 0.5); */
+
+    /* background-color: #ff0000; */
+    /* background-color: #cc0000; */
+    /* background-color: #ffbb00; */
+    /* background-color: #ffbbaa; */
+
+
+    /* background-color: hsl(0, 70%, 30%); */
+    /* background-color: hsl(30, 70%, 30%); */
+    /* background-color: hsl(120, 5%, 70%); */
+
+
+    /* background-color: hsla(70, 70%, 30%, 0.5); */
+    background-color: hsla(0, 90%, 10%, 0.5);
+
+    /* color: #4285f4; */
+}

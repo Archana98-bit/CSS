@@ -1,0 +1,40 @@
+/* p{
+    background-color: darkkhaki;
+} */
+
+
+/* div p{
+    background-color: aqua;
+} */
+
+
+/* Descendent selector */
+/* .c1 p{
+    background-color: aquamarine;
+} */
+
+
+/* Child selector */
+/* div p{
+    background-color: darkmagenta;
+} */
+
+/* div > p{
+    background-color: darkmagenta;
+} */
+
+
+/* General siblings selector */
+/* div ~ h1{
+    background-color: darkslategray;
+} */
+
+/* p ~ h2{
+    background-color: darkseagreen;
+} */
+
+
+/* adjacent sibling selector */
+p+h1{
+    background-color: forestgreen;
+}

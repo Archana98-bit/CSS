@@ -1,0 +1,70 @@
+/* tag selector */
+/* p{
+    color:brown;
+} */
+
+/* id selector */
+/* #id{
+    color: darkcyan;
+} */
+
+
+/* class selector */
+/* .c1{
+    color: darkgreen;
+} */
+
+
+/* input{
+    border: 5px solid teal;
+} */
+
+/* attribute selector */
+/* input[type="text"] {
+    border: 5px solid violet;
+} */
+
+
+/* grouping selector */
+/* div{
+    background-color: aquamarine;
+} */
+
+/* .c1{
+    background-color: cornflowerblue;
+} */
+
+/* div,p{
+    background-color: darksalmon;
+} */
+
+
+/* universal selector */
+/* p{
+    border: 3px solid green;
+} */
+
+/* p,
+div,
+body,
+html{
+    border: 2px solid green;
+} */
+
+
+/* {
+    border: 2px solid rgb(78, 50, 78);
+} */
+
+/* body{
+    border: 2px solid rgb(78, 50, 78);
+} */
+
+
+/* body{
+    color: brown;
+} */
+
+/* {
+    color: brown;
+} */
