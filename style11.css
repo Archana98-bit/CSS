@@ -1,0 +1,7 @@
+.c1{
+    background-image: url("/images/image03.jpg");
+    color: white;
+    background-size: cover;
+    font-size: 25px;
+    background-attachment: fixed;
+}

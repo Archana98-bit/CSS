@@ -1,0 +1,21 @@
+.c1{
+    height: 300px;
+    width: 300px;
+    /* background-image: conic-gradient(red,green, yellow, blue, red); */
+    border-radius: 50%;
+    /* background-image: conic-gradient(red 180deg,green, yellow, blue, red); */
+    /* background-image: conic-gradient(at 25% 50%,red,green, yellow, blue, red); */
+    
+    /* background-image: repeating-conic-gradient(green 0deg, green 20deg, yellow 20deg,
+    yellow 40deg); */
+
+    /* background-image: conic-gradient(rgba(110, 230, 0, 0.3), rgba(255, 0, 0, 0.3)); */
+
+    /* background-image: repeating-conic-gradient(yellow 0deg, yellow 90deg, black 90deg,
+    black 180deg, green 180deg, green 270deg, brown 270deg, brown 360deg); */
+
+    background-image: repeating-conic-gradient(brown 0deg, white 90deg, indigo 90deg,
+    indigo 180deg);
+    border: 2px solid black;
+    background-size: 50px 50px;
+}

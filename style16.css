@@ -1,0 +1,52 @@
+.box{
+    height: 400px;
+    width: 600px;
+    background-color: cornflowerblue;
+    margin: 30px;
+    /* position: relative; */
+}
+
+.box div{
+    display: inline-block;
+}
+
+
+#div1{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border-radius: 50%;
+    /* position: static;
+    top: 100px;
+    left: 200px; */
+}
+
+
+#div2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(2, 33, 25);
+    border-radius: 50%;
+    /* position: relative;
+    left: 60px;
+    top: 50px; */
+}
+
+
+#div3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(1, 64, 18);
+    border-radius: 50%;
+    position: absolute;
+    /* left: 30px; */
+    top: 100px;
+}
+
+#div4{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(50, 64, 1);
+   /* border-radius: 50%; */
+    
+}

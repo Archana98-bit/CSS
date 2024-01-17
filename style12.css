@@ -1,0 +1,17 @@
+.c1{
+    height: 750px;
+    width: 100%;
+    /* background-image: linear-gradient(brown, green); */
+    /* background-image: linear-gradient(to right, brown, green); */
+    /* background-image: linear-gradient(to bottom right, brown, green); */
+    /* background-image: linear-gradient(220deg, brown, green); */
+    /* background-image: linear-gradient(to right, brown, orange, yellow, green, darkblue,
+     indigo, violet); */
+    /* background-image: linear-gradient(to right, brown 20%, darkgreen 20%, yellow 20%, indigo 20%,
+    violet 20%); */
+    /* background-image: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0,0,255,0.5)); */
+    
+    
+    background-image: repeating-linear-gradient(brown 10%, green 20%);
+}
+

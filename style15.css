@@ -1,0 +1,128 @@
+.div1{
+    background-color: cadetblue;
+    width: 450px;
+    height: 250px;
+    font-size: 25px;
+    /* border-style: dotted; */
+    /* border-style: dashed; */
+    /* border-style: solid; */
+    /* border-style: dashed; */
+    /* border-style: groove; */
+    /* border-style: double; */
+    /* border-width: 10px; */
+    /* border-style: outset; */
+    /* border-style: inset; */
+    /* border-style: ridge; */
+    /* border-color: darkred; */
+
+
+    /* border shortcut */
+    /* border: 10px solid yellow; */
+}
+
+
+.div2{
+    background-color: brown;
+    width: 450px;
+    height: 450px;
+    /* border-radius: 50%; */
+
+    /* border: 10px solid rgb(17, 58, 17); */
+}
+
+
+/* .div3{
+    background-color: rgb(110, 39, 12);
+    width: 600px;
+    height: 250px;
+    border-left: 50px solid rgb(11, 11, 138);
+    border-right: 50px solid rgb(18, 101, 133);
+    border-top: 50px solid rgb(43, 2, 81);
+    border-bottom: 50px solid rgb(79, 107, 22);
+
+} */
+
+
+/* .div4{
+    background-color: rgb(110, 39, 12);
+    width: 600px;
+    height: 250px;
+    border-left: 25px solid rgb(11, 11, 138);
+    border-right: 25px solid rgb(18, 101, 133);
+    border-top: 25px solid rgb(43, 2, 81);
+    border-bottom: 25px solid rgb(79, 107, 22);
+    border-radius: 50%;
+} */
+
+
+/* .div5{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    border-left: 25px solid rgb(11, 11, 138);
+    border-right: 25px solid rgb(18, 101, 133);
+    border-top: 25px solid rgb(43, 2, 81);
+    border-bottom: 25px solid rgb(79, 107, 22);
+    border-radius: 50%;
+} */
+
+
+/* .div6{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    border-left: none;
+    border-right: none;
+    border-top: 25px solid rgb(43, 2, 81);
+    border-bottom: 25px solid rgb(79, 107, 22);
+    border-radius: 50%;
+} */
+
+
+/* .div6{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    border-left: 25px solid rgb(43, 2, 81);
+    border-right: 25px dotted rgb(79, 107, 22);
+    border-top: 25px solid rgb(22, 107, 96);
+    border-bottom: 25px dashed rgb(71, 7, 43);
+    border-radius: 25px;
+} */
+
+
+/* .div7{
+    background-color: white;
+    width: 650px;
+    height: 300px;
+    border-left: 10px solid darkslategray;
+    border-right: 10px solid rgb(58, 2, 23);
+    /* border-radius: 25px; */
+    /* border-radius: 65px 0px 65px 0px; */
+/*  } */
+
+
+/* .div8{
+    background-color: white;
+    width: 650px;
+    height: 300px;
+    border: 10px solid darkslategray;
+    /* margin-top: 250px;
+    margin-left: 150px;
+    margin-bottom: 250px;
+    margin-right: 150px; */
+    /* margin: 50px; */
+    /* margin: auto; */
+ /* } */
+
+
+.div9{
+    background-color: white;
+    width: 650px;
+    height: 300px;
+    border: 10px solid darkslategray;
+    padding: 50px;
+    font-size: 25px;
+    margin: 100px;
+    padding: 50px 100px 300px 20px;
+}
