@@ -1,0 +1,19 @@
+p{
+    background-color: cornflowerblue !important;    /*overriding(forcefully)*/
+}
+
+div p{
+    background-color: darkcyan;
+}
+
+div>p{
+    background-color: darkolivegreen;
+}
+
+.c1{
+    background-color: darkmagenta;
+}
+
+#id1{
+    background-color: darkslategray;
+}

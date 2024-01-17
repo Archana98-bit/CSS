@@ -1,0 +1,17 @@
+.c1{
+    height: 400px;
+    width: 600px;
+    background-color: cadetblue;
+    font-size: 25px;
+    color: brown;
+    padding: 20px;
+    border: 20px dotted darkgreen;
+    background-color: lightcoral;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-origin: padding-box;
+    /* background-clip: border-box; */
+    /* background-clip: padding-box; */
+    background-clip: content-box;
+}

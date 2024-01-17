@@ -1,0 +1,14 @@
+.c1{
+    background-color: darkslategray;
+    height: 850px;
+    width: 100%;
+    background-image: url("/images/Red-Ball-PNG-Pic.png");
+    background-repeat: no-repeat;
+    /* background-position: top right; */
+    /* background-position: top center; */
+    /* background-position: center; */
+    /* background-position: 20% 50%; */
+    /* background-position: 160px 350px; */
+    /* background-position: bottom 20px right 120px; */
+    background-position: top 20px right 120px;
+}
