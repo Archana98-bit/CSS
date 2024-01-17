@@ -1,0 +1,22 @@
+/* h1{
+    background-color: darkgreen;
+    color: white;
+    display: inline;
+} */
+
+/* span{
+    display: block;
+    background-color: burlywood;
+} */
+
+
+div{
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+    height: 150px;
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+}

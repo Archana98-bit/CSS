@@ -1,0 +1,21 @@
+/* format */
+
+#Tiger{
+    float: left;
+    width: 150px;
+    height: 150px;
+}
+
+
+#Girl{
+    float: right;
+    width: 150px;
+    height: 150px;
+}
+
+p{
+    width: 50%;
+    border: 2px solid teal;
+    text-align: justify;
+    padding: auto;
+}

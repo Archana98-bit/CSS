@@ -1,0 +1,19 @@
+/* @format */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.leftbox{
+    background-color: rgb(24, 58, 59);
+    color: white;
+    width: 40%;
+    float: left;
+}
+
+.rightbox{
+    background-color: deeppink;
+    color: white;
+    width: 60%;
+    float: right;
+}

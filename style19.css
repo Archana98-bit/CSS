@@ -1,0 +1,12 @@
+body {
+    /* background: url("/images/image04"), brown; */
+    /* background: url("/images/image03"), linear-gradient(45deg, brown, violet); */
+
+    background: url("/images/image04"), url("/images/image03");
+    background-size: cover;
+    background-blend-mode: multiply;
+    /* background-blend-mode: hard-light; */
+    /* background-blend-mode: lighten; */
+    /* background-blend-mode: overlay; */
+    /* background-blend-mode: exclusion; */
+}
